@@ -36,7 +36,7 @@ It should look something like this:
 ```
 or 
 ```
-(venv) alberto@debian$
+(venv) alberto@debian ExampleProject$
 ```
 ### Getting out of venv
 To exit the virtual environment just type:

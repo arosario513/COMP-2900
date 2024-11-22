@@ -23,7 +23,7 @@ def get_time(algorithm, data):
     return time
 
 
-input_sizes = range(10_000, 100_000, 10_000)
+input_sizes = range(10_000, 101_000, 10_000)
 algs = {"selection": selection, "bubble": bubble}
 
 algorithm_results = {name: [] for name in algs}
